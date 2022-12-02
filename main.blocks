@@ -1,0 +1,17 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="N1G5Eb05*!mGZB6EPl:*" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundcolor" id="Ytg=61cb%6yFjC9X3P+%"><value name="color"><shadow type="colorindexpicker" id="INTykbZQtHko7+uW]g0L"><field name="index">6</field></shadow></value><next><block type="particlesStartScreenAnimation" id="qg`ol2c+DHIJ4__^gP*r"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><field name="effect">effects.confetti</field><value name="duration"><shadow type="timePicker" id="Nc@f7J;KBk9o*fqjoQ.["><field name="ms">500</field></shadow></value><next><block type="device_pause" id="Lkz3?(?MAK}:=^LR(W:d"><value name="pause"><shadow type="timePicker" id="H[`A8z9^aL}Nw7)G1Oh/"><field name="ms">3000</field></shadow></value><next><block type="game_dialog_set_frame" id="^V~:6+]CMkuk{+r]UbHm"><value name="frame"><shadow type="dialog_image_picker" id="W)3d1s/#u)[7^MWdVgl1"><field name="img">img`
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"W)3d1s/#u)[7^MWdVgl1"}}</data></shadow></value><next><block type="game_dialog_set_text_color" id="bHj;lkJpT+t{[rd~-~PT"><value name="color"><shadow type="colorindexpicker" id="80(l[?2Z~G=$w.u^qdWy"><field name="index">4</field></shadow></value><next><block type="gameSplash" id=".VicPQS${sKc4t!C_6Fm"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="title"><shadow type="text" id="r!$7H:2DQRY|Q`#DNsqb"><field name="TEXT">Welcome to good pizza</field></shadow></value><value name="subtitle"><shadow type="text" id="thf%=V#v^vyw}k=#CUcG"><field name="TEXT"></field></shadow></value><next><block type="particlesEndScreenAnimation" id="aY,0G-$[9(,!FM|}mT::"><field name="effect">effects.confetti</field><next><block type="mixer_play_sound_until_done" id="_4vzR{nCoF6j`)0J:j@M"><field name="sound">music.baDing</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
